@@ -1,7 +1,7 @@
 # Gym-Website-and-Management-System
 🏋️‍♂️ "Complete Full stack Gym Website with PHP MySQL based admin panel and Management System which can be used to take registrations " 💪 Explore our sleek and responsive frontend for a gym website! 💻 Features include membership options 💳, class schedules 📅, and trainer profiles 🏋️‍♀️. Join us online and kickstart your fitness journey! 🚀
  with multiple features like
-
+## Watch the Live [Demo](http://localhost/Gym-Management/mainindex.php)
 #### Front End:
  * Index Page
  * BMI Calculator
